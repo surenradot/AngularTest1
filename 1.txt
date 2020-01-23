@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi from 1.txt
 
 Change by 93
+=======
+Hello from 1.txt
+How are you, what are you doing now
+>>>>>>> c34ca93ab17dbc889d7b83b51d9aeb13c695845f
